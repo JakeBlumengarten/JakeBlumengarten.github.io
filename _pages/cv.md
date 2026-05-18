@@ -3,62 +3,21 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+### Education
+* **M.A. in Economics (Econometrics & Data Analysis)** | University of Florida (Graduating May 2027)
+* **B.A. in Economics** (3.83 GPA, Dean's List) | University of Florida (Graduating May 2026)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Professional Experience
+* **Florida Football Data Analyst Intern** | May 2026 – Present
+  * Utilize football data analysis, statistical methods, and player tracking for roster construction and game prep.
+  * Partner with scouts and coaching staff to inject quantitative analytics into player evaluations.
+  * Build pipeline processes tracking portal evaluation trends and player acquisition success profiles.
+* **Equipment Manager** | UF Football Team | May 2024 – Dec 2025
+  * Maintained systematic quality-control routines and equipment oversight for 200+ athletes and coaches across 24 high-pressure game weeks.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Analytics Competitions
+* **Data Analytics Competitor** | NFL Big Data Bowl (Fall 2025)
+* **Data Analytics Competitor** | Football Analytics Blitz (Feb 2025 & Feb 2026)
+  * Modeled dynamic kickoff tracking data and presented coverage schematic impact assessments to a panel of expert judges.
