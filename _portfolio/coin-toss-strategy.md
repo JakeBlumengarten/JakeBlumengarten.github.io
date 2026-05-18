@@ -3,7 +3,7 @@ title: "Coin Toss Strategy in College Football"
 excerpt: "Statistical modeling project evaluating the strategic decision of whether to receive the opening kickoff."
 collection: portfolio
 header:
-  teaser: /images/cointoss.png
+  teaser: images/cointoss.png
 ---
 
 ### Project Overview
