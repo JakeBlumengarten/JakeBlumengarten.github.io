@@ -2,12 +2,15 @@
 title: "Superstore Sales & Profitability Dashboard"
 excerpt: "Tableau dashboard analyzing sales, profit, order volume, and shipping performance to identify operational inefficiencies."
 collection: portfolio
+date: 2026-01-01
 header:
   teaser: /images/Sales.png
 ---
 
 ### Project Overview
 Built a decision-focused Tableau dashboard to analyze sales, profit, order volume, and shipping performance for a fictitious retail Superstore. 
+
+![Superstore Dashboard](/images/Sales.png)
 
 ### Key Insights & Execution
 * **Revenue Drivers:** Broke down sales by sub-category, revealing that a small number of products (Phones, Chairs, Storage) drive a disproportionate share of revenue compared to long-tail items.

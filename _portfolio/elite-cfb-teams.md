@@ -2,12 +2,15 @@
 title: "Identifying Elite College Football Teams Statistically"
 excerpt: "Regression modeling project analyzing whether elite college football teams can be identified using season-level performance metrics."
 collection: portfolio
+date: 2025-12-04
 header:
   teaser: /images/predwins.png
 ---
 
 ### Project Overview
-Examined whether elite college football teams can be identified using season-level performance metrics rather than reputation or narrative. 
+Examined whether elite college football teams can be identified using season-level performance metrics rather than reputation or narrative.
+
+![Model:](/images/predwins.png)
 
 ### Technical Execution
 * Utilized publicly available data from the `cfbfastR` package, analyzing teams from 2004–2025.

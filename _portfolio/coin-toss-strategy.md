@@ -1,6 +1,7 @@
 ---
 title: "Coin Toss Strategy in College Football"
 excerpt: "Statistical modeling project evaluating the strategic decision of whether to receive the opening kickoff."
+date: 2025-06-12
 collection: portfolio
 header:
   teaser: images/cointoss.png
@@ -8,6 +9,8 @@ header:
 
 ### Project Overview
 Evaluated the common strategic decision in college football—whether to receive the opening kickoff—using play-by-play data and statistical modeling. 
+
+![Coin Toss Strategy](/images/cointoss.png)
 
 ### Key Contributions
 * Sourced, parsed, and cleaned multi-season college football play-by-play data in R.

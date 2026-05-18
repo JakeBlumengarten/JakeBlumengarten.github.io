@@ -1,6 +1,7 @@
 ---
 title: "NFL Big Data Bowl 2025 - Play Prediction"
 excerpt: "Machine learning submission utilizing XGBoost to predict player movements after the football is thrown using NFL tracking data."
+date: 2025-12-12
 collection: portfolio
 ---
 
